@@ -1,3 +1,3 @@
 @echo off
 
-choco install geforce-experience
+choco install geforce-experience -y
