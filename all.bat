@@ -15,4 +15,7 @@ call "scripts/dev.bat"
 echo "Installing Gaming"
 call "scripts/gaming.bat"
 
+echo "Installing Art"
+call "scripts/art.bat"
+
 echo "Done"

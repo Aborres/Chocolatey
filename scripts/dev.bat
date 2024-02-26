@@ -10,3 +10,5 @@ choco install renderdoc -y
 choco install pix -y
 choco install wiztree -y
 choco install virtualbox -y
+choco install ffmpeg -y
+choco install ripgrep -y
